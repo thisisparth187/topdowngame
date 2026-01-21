@@ -1,0 +1,16 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1768982657
+export_presets.cfg::TextFile::-1::1768971651::0::1::::<><><>0<>0<><>::
+icon.svg::CompressedTexture2D::5224848396183222958::1768971271::1768971308::1::::<><><>0<>0<>38999de136209781559a9a0535fde2b7<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://assets/::1768971308
+forest-Sheet.png::CompressedTexture2D::6176132981252156048::1768971271::1768971308::1::::<><><>0<>0<>b4bb768b9b3e092693636eb36b7643ad<>res://.godot/imported/forest-Sheet.png-be170d87860863221fc7e3019fccbd5c.ctex::
+grass.png::CompressedTexture2D::2459214858671655706::1768971271::1768971308::1::::<><><>0<>0<>289bb66ef110b08677445ef051261a08<>res://.godot/imported/grass.png-a207bda4a53e32c7645a41ec6d1c234e.ctex::
+objects.png::CompressedTexture2D::8110318938009051074::1768971271::1768971308::1::::<><><>0<>0<>765d696423334b971dd4d28ba6b71b35<>res://.godot/imported/objects.png-70e7284227060a3ae74917640f1e1f26.ctex::
+plains.png::CompressedTexture2D::2062874113696641831::1768971271::1768971308::1::::<><><>0<>0<>323796f790a52e7383742f74bb209bb9<>res://.godot/imported/plains.png-0db7fda1da0fbc8c724e97bd55280780.ctex::
+::res://assets/character/::1768971308
+player.png::CompressedTexture2D::6347664354764888686::1768971271::1768971308::1::::<><><>0<>0<>97b147e2b8028b151d15e35f57a717c2<>res://.godot/imported/player.png-4d87d5269f390ba5e4b1fe1e9282c17e.ctex::
+::res://scenes/::1768981200
+player.tscn::PackedScene::3449852908011330152::1768972139::0::1::::<><><>0<>0<><>::uid://cwo4ds27v4647::::res://assets/character/player.png<>uid://c41o0jxk6r47e::::res://scripts/player.gd
+world.tscn::PackedScene::427662435946555051::1768981200::0::1::::<><><>0<>0<><>::uid://4njh871j1xql::::res://assets/plains.png<>uid://dnsx1d1s0wqpe::::res://assets/objects.png<>uid://bbbi56kdog427::::res://assets/grass.png<>uid://bpfetq2spy761::::res://scenes/player.tscn
+::res://scripts/::1768971271
+player.gd::GDScript::6862886845978184624::1768971271::0::1::::<>CharacterBody2D<><>0<>0<><>::
